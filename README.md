@@ -23,7 +23,8 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220410-151518_Termux](https://user-images.githubusercontent.com/81049859/162635958-9fab2136-064e-430a-9b4a-48576592aa57.png)
+![Screenshot_20220522-080312_Termux](https://user-images.githubusercontent.com/81049859/169695746-f28ebf39-0b20-4c99-a2e1-2190a23e1243.png)
+
 
 
 
