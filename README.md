@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220523-000753_Termux](https://user-images.githubusercontent.com/81049859/169741478-46aff645-8754-4275-9154-2b3e918c5075.png)
+![Screenshot_20221227-213517_Termux](https://user-images.githubusercontent.com/81049859/209743707-46b50c2c-496e-40ca-93d8-ac158380fa2a.png)
 
 - Super Remake de :
 - [ProxyShell](https://github.com/DeepSociety/ProxyShell) by DeepSociety
