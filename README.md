@@ -49,7 +49,7 @@ ______________________________________________________
 - [ProxyShell](https://github.com/DeepSociety/ProxyShell) by DeepSociety
 
 ## ProxyCj7 :
-* Generador de Proxy Http, Socks4 y Socks5.
+* Generador de **proxies** HTTP, SOCKS4 y SOCKS5.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -57,17 +57,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/ProxyCj7 `
-
-* ` cd ProxyCj7 `
-
-* ` chmod +x * `
-
-* ` ./ProxyCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/ProxyCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd ProxyCj7 && chmod +x * && ./ProxyCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
