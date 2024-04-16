@@ -45,8 +45,11 @@ ______________________________________________________
 ## Menú Principal :
 ![1000285755](https://github.com/Juliocj7/ProxyCj7/assets/81049859/74c0c3be-c076-48d1-83cc-cd07443044c6)
 
-- Super Remake de :
-- [ProxyShell](https://github.com/DeepSociety/ProxyShell) by DeepSociety
+<div align="center">
+
+  > Super remake of: [**`ProxyShell`**](https://github.com/DeepSociety/ProxyShell)
+
+</div>
 
 ## ProxyCj7 :
 * Generador de **proxies** HTTP, SOCKS4 y SOCKS5.
